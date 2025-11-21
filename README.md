@@ -9,9 +9,7 @@ Welcome to my GitHub! I’m **Laraib Tahir**, a passionate Web Developer focused
 - 💻 I enjoy building dynamic, responsive web apps  
 - 🐞 I love debugging problems and finding effective solutions  
 - 🔍 Passionate about research and discovering innovative approaches  
-- 💡 Coding is something I never get bored with — always eager to learn and improve  
-- ⚙️ Experienced in **Vue.js**, **Laravel**, **JavaScript**, **HTML**, **CSS**, **Bootstrap**, and **MySQL**  
-- 🌱 Currently learning: **Nuxt.js** & **API development**  
+- 💡 Coding is something I never get bored with — always eager to learn and improve   
 - 🔎 I’m always open to collaborating on meaningful projects  
 
 ---
@@ -19,25 +17,17 @@ Welcome to my GitHub! I’m **Laraib Tahir**, a passionate Web Developer focused
 ## 🛠️ Tech Stack
 
 **Backend & APIs:**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![n8n](https://img.shields.io/badge/n8n-ff3e00?style=for-the-badge&logo=n8n&logoColor=white)  
-![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=api&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-ff3e00?style=for-the-badge&logo=n8n&logoColor=white) ![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=api&logoColor=white)
 
 **Frontend & Web:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Other Tools:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![UML](https://img.shields.io/badge/UML-007ACC?style=for-the-badge&logo=uml&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![UML](https://img.shields.io/badge/UML-007ACC?style=for-the-badge&logo=uml&logoColor=white)
+
 
 ---
 
