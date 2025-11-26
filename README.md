@@ -1,7 +1,7 @@
 # Hi, I'm **Laraib Tahir** 👋  
 ### Web Developer | Backend Specialist | PHP, Laravel,Vue, APIs
 
-Welcome to my GitHub! I’m **Laraib Tahir**, a passionate Web Developer focused on backend development, APIs, and scalable web applications. I specialize in **PHP**, **Laravel**, **JavaScript**, **Vue.js**, and working with databases like **MySQL**, **PostgreSQL**, and **MongoDB**.
+Welcome to my GitHub! I’m **Laraib Tahir**, a passionate Web Developer focused on backend development, APIs, and scalable web applications. I specialize in **PHP**, **Laravel**, **JavaScript**, **Vue.js**, and working with databases like **MySQL**, **PostgreSQL** .
 
 ---
 
