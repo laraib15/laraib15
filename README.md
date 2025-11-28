@@ -33,8 +33,8 @@ Welcome to my GitHub! I’m **Laraib Tahir**, a passionate Web Developer focused
 
 ## 🌐 Portfolio  
 Check out my personal portfolio here:  
-👉 **https://laraib-tahir.vercel.app**
-👉 **https://laraib15.github.io**
+- 👉 **https://laraib-tahir.vercel.app**
+- 👉 **https://laraib15.github.io**
 
 ---
 
